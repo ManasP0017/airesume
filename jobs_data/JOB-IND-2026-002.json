@@ -1,0 +1,22 @@
+{
+  "id": "JOB-IND-2026-002",
+  "title": "Full-Stack Developer (Python + UI)",
+  "company": "Gurugram FinTech Studio",
+  "location": "Gurugram, India",
+  "description": "Own feature delivery across backend services and lightweight UIs. You’ll build internal tools and customer-facing dashboards.",
+  "requirements": [
+    "Strong Python foundations and API design",
+    "Experience building UIs (Gradio/Streamlit acceptable)",
+    "SQL basics and data modeling",
+    "Good engineering hygiene (testing, code reviews)"
+  ],
+  "skills": [
+    "Python",
+    "APIs",
+    "Gradio",
+    "SQL",
+    "Git",
+    "Testing"
+  ],
+  "posted_date": "2026-04-07"
+}

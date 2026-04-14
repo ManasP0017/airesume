@@ -1,0 +1,23 @@
+{
+  "id": "JOB-IND-2026-001",
+  "title": "AI Engineer (LLM Apps)",
+  "company": "NimbusAI Labs",
+  "location": "Bangalore, India",
+  "description": "Build production LLM features: embeddings search, RAG chatbots, evaluation, and monitoring. Work with product and engineering to ship GenAI experiences.",
+  "requirements": [
+    "3+ years Python backend experience",
+    "Hands-on with embeddings, vector DBs (Chroma/Pinecone/FAISS)",
+    "LangChain/LlamaIndex experience",
+    "Comfort with Docker and basic cloud deployment"
+  ],
+  "skills": [
+    "Python",
+    "LangChain",
+    "RAG",
+    "Chroma",
+    "Sentence Transformers",
+    "Docker",
+    "FastAPI"
+  ],
+  "posted_date": "2026-04-07"
+}

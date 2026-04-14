@@ -1,0 +1,21 @@
+{
+  "id": "JOB-IND-2026-010",
+  "title": "Software Engineer (GenAI Integrations)",
+  "company": "Bangalore HRTech",
+  "location": "Bangalore, India",
+  "description": "Integrate LLM features into HR workflows: resume parsing, candidate matching, cover letter generation, and chat assistants.",
+  "requirements": [
+    "Python + API development",
+    "LLM integrations and prompt discipline",
+    "Text processing and data quality focus"
+  ],
+  "skills": [
+    "Python",
+    "Text Processing",
+    "Gemini",
+    "LangChain",
+    "Embeddings",
+    "Chroma"
+  ],
+  "posted_date": "2026-04-07"
+}

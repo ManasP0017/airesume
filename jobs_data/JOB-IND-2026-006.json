@@ -1,0 +1,21 @@
+{
+  "id": "JOB-IND-2026-006",
+  "title": "AI Solutions Engineer (Client-facing)",
+  "company": "Delhi NCR AI Consultancy",
+  "location": "Noida, India",
+  "description": "Deliver AI/GenAI solutions for clients: discovery, POCs, and production rollouts. Work on RAG, document processing, and chat assistants.",
+  "requirements": [
+    "Strong communication and client handling",
+    "Hands-on with Python and LLM integrations",
+    "Document parsing and data cleaning experience"
+  ],
+  "skills": [
+    "Python",
+    "RAG",
+    "Document Parsing",
+    "Gemini",
+    "LangChain",
+    "Chroma"
+  ],
+  "posted_date": "2026-04-07"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "JOB-IND-2026-005",
+  "title": "ML Engineer (NLP + Retrieval)",
+  "company": "Bangalore AI Platform",
+  "location": "Bangalore, India",
+  "description": "Improve retrieval quality, embedding selection, evaluation, and deployment. Implement offline/online eval and quality dashboards.",
+  "requirements": [
+    "Experience with sentence-transformers and semantic search",
+    "Understanding of ranking, evaluation metrics, and embeddings",
+    "Ability to ship models into production systems"
+  ],
+  "skills": [
+    "Python",
+    "NLP",
+    "Sentence Transformers",
+    "Embeddings",
+    "Evaluation",
+    "Chroma"
+  ],
+  "posted_date": "2026-04-07"
+}

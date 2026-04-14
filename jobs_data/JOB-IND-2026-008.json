@@ -1,0 +1,21 @@
+{
+  "id": "JOB-IND-2026-008",
+  "title": "Full-Stack Engineer (Startup - Noida)",
+  "company": "RapidKart",
+  "location": "Noida, India",
+  "description": "Build customer features end-to-end. Backend in Python; simple UIs for internal tools. High ownership and rapid iteration.",
+  "requirements": [
+    "Solid Python and system design basics",
+    "Ability to ship quickly with good quality",
+    "Comfort working across the stack"
+  ],
+  "skills": [
+    "Python",
+    "APIs",
+    "Gradio",
+    "SQL",
+    "Testing",
+    "Git"
+  ],
+  "posted_date": "2026-04-07"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "JOB-IND-2026-009",
+  "title": "RAG Engineer (Search + LLM)",
+  "company": "Gurugram Enterprise AI",
+  "location": "Gurugram, India",
+  "description": "Design and optimize RAG systems: chunking, retrieval strategies, re-ranking, and grounding. Build evaluation loops for continuous improvement.",
+  "requirements": [
+    "Experience with vector DBs and retrieval",
+    "LangChain RAG pipelines",
+    "Evaluation mindset and experimentation"
+  ],
+  "skills": [
+    "Python",
+    "RAG",
+    "LangChain",
+    "Chroma",
+    "Embeddings",
+    "Evaluation"
+  ],
+  "posted_date": "2026-04-07"
+}

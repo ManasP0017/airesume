@@ -1,0 +1,20 @@
+{
+  "id": "JOB-IND-2026-007",
+  "title": "Platform Engineer (AI Tooling)",
+  "company": "Bangalore DevTools Startup",
+  "location": "Bangalore, India",
+  "description": "Build internal developer tooling for AI features: prompt/version management, eval harnesses, and observability pipelines.",
+  "requirements": [
+    "Python engineering maturity",
+    "Experience with CI/CD and containers",
+    "Interest in AI platform/infra problems"
+  ],
+  "skills": [
+    "Python",
+    "Docker",
+    "CI/CD",
+    "Observability",
+    "LLM Tooling"
+  ],
+  "posted_date": "2026-04-07"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "JOB-IND-2026-003",
+  "title": "GenAI Product Engineer",
+  "company": "Noida SaaS Startup",
+  "location": "Noida, India",
+  "description": "Prototype and productionize GenAI workflows: prompt engineering, tool use, RAG, and guardrails. Collaborate closely with product for iterative delivery.",
+  "requirements": [
+    "Experience with Gemini/OpenAI/Groq models",
+    "RAG architecture and retrieval tuning",
+    "Ability to translate product needs into reliable systems"
+  ],
+  "skills": [
+    "Python",
+    "Gemini",
+    "Groq",
+    "Prompting",
+    "RAG",
+    "LangChain",
+    "Chroma"
+  ],
+  "posted_date": "2026-04-07"
+}

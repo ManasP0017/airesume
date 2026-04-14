@@ -1,0 +1,20 @@
+{
+  "id": "JOB-IND-2026-004",
+  "title": "Software Engineer (Backend - Python)",
+  "company": "Bengaluru Logistics Tech",
+  "location": "Bangalore, India",
+  "description": "Build scalable backend services, data pipelines, and integrations. Work with product to deliver reliable systems in a high-growth environment.",
+  "requirements": [
+    "2+ years Python experience",
+    "Experience with background jobs and REST APIs",
+    "Familiarity with logging/monitoring"
+  ],
+  "skills": [
+    "Python",
+    "REST APIs",
+    "PostgreSQL",
+    "Background Jobs",
+    "Observability"
+  ],
+  "posted_date": "2026-04-07"
+}
